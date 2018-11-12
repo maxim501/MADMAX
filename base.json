@@ -1,1 +1,20 @@
-﻿[{"id":"1","date":"17.09.2018","time":"10:35","name":"Максимка","marka":"Acer","model":"V571g","note":"Примечание","post":"Магистр","valueLight":"66.0;222.0","valueMagneto":"28,3;28,6;70,6","vaueNoise":"0,3","valueVibro":"0,1"}]
+﻿{
+  "success": true,
+  "base_list": [
+      {
+          "id":"1",
+          "date":"17.09.2018",
+          "time":"10:35",
+          "name":"MAX",
+          "marka":"Acer",
+          "model":"V571g",
+          "note":"Note",
+          "post":"Magistr",
+          "valueLight":"66.0;222.0",
+          "valueMagneto":"28,3;28,6;70,6",
+          "valueNoise":"0,3",
+          "valueVibro":"0,1"
+          
+      }
+      ]
+}
