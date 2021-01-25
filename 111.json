@@ -1,0 +1,44 @@
+{
+  "skins": [
+  {
+    "name": "berserk",
+    "urlPreviewSkin": "https://docs.google.com/uc?id=1apmkYjQHRwmJQ-Vgv_v9GxU9XiIKP--G",
+    "urlSkin": "https://docs.google.com/uc?id=1apmkYjQHRwmJQ-Vgv_v9GxU9XiIKP--G",
+    "pack": "1"
+  },
+  {
+    "name": "Adam",
+    "urlPreviewSkin": "https://docs.google.com/uc?id=1apmkYjQHRwmJQ-Vgv_v9GxU9XiIKP--G",
+    "urlSkin": "https://docs.google.com/uc?id=1apmkYjQHRwmJQ-Vgv_v9GxU9XiIKP--G",
+    "pack": "2"
+  },
+  {
+    "name": "Adam",
+    "urlPreviewSkin": "https://docs.google.com/uc?id=1apmkYjQHRwmJQ-Vgv_v9GxU9XiIKP--G",
+    "urlSkin": "https://docs.google.com/uc?id=1apmkYjQHRwmJQ-Vgv_v9GxU9XiIKP--G",
+    "pack": "2"
+  }],
+    "packs": [
+      {
+        "name": "Mega Pack 1"
+      },
+      {
+        "name": "Super Pack 2"
+      },
+      {
+        "name": "Top Pack 3"
+      },
+      {
+        "name": "Super Pack 2"
+      },
+      {
+        "name": "Top Pack 3"
+      },
+      {
+        "name": "Super Pack 2"
+      },
+      {
+        "name": "Top Pack 3"
+      }
+    ]
+}
