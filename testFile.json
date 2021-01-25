@@ -20,13 +20,13 @@
   }],
     "packs": [
       {
-        "name": "1"
+        "name": "Mega Pack 1"
       },
       {
-        "name": "2"
+        "name": "Super Pack 2"
       },
       {
-        "name": "3"
+        "name": "Top Pack 3"
       }
     ]
 }
