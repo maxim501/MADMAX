@@ -1,151 +1,404 @@
-{ 
- "skins": [ 
- 
- { 
- "name": "Bill", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Bill1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Bill.png", 
- "pack": "For Boys" 
- }, 
- { 
- "name": "DarkBoy", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/DarkBoy1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/DarkBoy.png", 
- "pack": "For Boys" 
- }, 
- { 
- "name": "Disco", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Disco1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Disco.png", 
- "pack": "For Boys" 
- }, 
- { 
- "name": "EvilBoy", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/EvilBoy1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/EvilBoy.png", 
- "pack": "For Boys" 
- }, 
- { 
- "name": "Hoodie", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Hoodie1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Hoodie.png", 
- "pack": "For Boys" 
- }, 
- { 
- "name": "Grandpa", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Granpdpa1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Grandpa.png", 
- "pack": "For Boys" 
- }, 
- { 
- "name": "Guy", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/guy1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/guy.png", 
- "pack": "For Boys" 
- }, 
- { 
- "name": "Bikini", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Bikini1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Bikini.png", 
- "pack": "For Girls" 
- }, 
- { 
- "name": "BunnyGirl", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Bunnygirl1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Bunnygirl.png", 
- "pack": "For Girls" 
- }, 
- { 
- "name": "ChickenGirl", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Chickengirl1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Chickengirl.png", 
- "pack": "For Girls" 
- }, 
- { 
- "name": "Flowers", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Flowers1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Flowers.png", 
- "pack": "For Girls" 
- }, 
- { 
- "name": "Helga", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Helga1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Helga.png", 
- "pack": "For Girls" 
- }, 
- { 
- "name": "Jane", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/JAne1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/JAne.png", 
- "pack": "For Girls" 
- }, 
- { 
- "name": "Kate", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Kate1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Kate.png", 
- "pack": "For Girls" 
- }, 
- { 
- "name": "Avocado", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Avocado1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Avocado.png", 
- "pack": "Funny" 
- }, 
- { 
- "name": "Bananaman", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Bananaman1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Bananaman.png", 
- "pack": "Funny" 
- }, 
- { 
- "name": "Boom", 
- "urlPreviewSkin":"https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Boom1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Boom.png", 
- "pack": "Funny" 
- }, 
- { 
- "name": "CCCP", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/CCCP1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/CCCP.png", 
- "pack": "Funny" 
- }, 
- { 
- "name": "Oops", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Oops1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Oops.png", 
- "pack": "Funny" 
- }, 
- { 
- "name": "SadNude", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/SadNude1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/SadNude.png", 
- "pack": "Funny" 
- }, { 
- "name": "Smile", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Smile1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Smile.png", 
- "pack": "Funny" 
- }, { 
- "name": "Borat", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/borat1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/borat.png", 
- "pack": 1 
- }, { 
- "name": "Minion", 
- "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/minion1.png", 
- "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/minion.png", 
- "pack": 1 
- } 
- ], 
- "packs":[ 
- { 
- "name": "For Boys" 
- }, 
- { 
- "name": "For Girls" 
- }, 
- { 
- "name": "Funny" 
- } 
- ] 
+{
+  "skins": [
+  
+    {
+    "name": "Bill",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Bill1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Bill.png",
+    "pack": "For Boys"
+  },
+  {
+    "name": "DarkBoy",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/DarkBoy1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/DarkBoy.png",
+     "pack": "For Boys"
+  },
+  {
+    "name": "Disco",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Disco1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Disco.png",
+    "pack": "For Boys"
+  },
+   {
+    "name": "EvilBoy",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/EvilBoy1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/EvilBoy.png",
+    "pack": "For Boys"
+  },
+   {
+    "name": "Hoodie",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Hoodie1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Hoodie.png",
+    "pack": "For Boys"
+  },
+   {
+    "name": "Grandpa",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Granpdpa1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Grandpa.png",
+    "pack": "For Boys"
+  },
+   {
+    "name": "Guy",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/guy1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/guy.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "BunnyGuy",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/BunnyGuy1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/BunnyGuy.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "BurningMan",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/BurningMan1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/BurningMan.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "ChickenCarry",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/ChickenCarry1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/ChickenCarry.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "DarkKing",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/DarkKing1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/DarkKing.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "GhostNinja",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/GhostNinja1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/GhostNinja.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "Ice",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Ice1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Ice.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "IceandFire",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/IceandFire1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/IceandFire.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "King",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/King1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/King.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "Noir",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Noir1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Noir.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "OldJohn",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/OldJohn1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/OldJohn.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "OnePunch",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/OnePunch1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/OnePunch.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "Samurai",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Samurai1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Samurai.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "Sith",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Sith1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Sith.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "Smurf",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Smurf1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Smurf.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Solo",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Solo1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Solo.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "TNT",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/TNT1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/TNT.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Tque",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Tque1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Tque.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Trooper",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Trooper1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Trooper.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Unicorn",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Unicorn1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Unicorn.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "WhiteKing",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/WhiteKing1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/WhiteKing.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "Dementor",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/dementor1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/dementor.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "Holmes",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/holmes1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/holmes.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "Keanu",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/keanu1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/keanu.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "Monarch",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/monarch1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/monarch.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "TeddyBear",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/teddybear1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/teddybear.png",
+    "pack": "For Boys"
+  },
+      {
+    "name": "CuteWhite",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/CuteWhite1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/CuteWhite.png",
+    "pack": "For Girls"
+  },
+       {
+    "name": "Mary",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Mary1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Mary.png",
+    "pack": "For Girls"
+  },
+       {
+    "name": "PinkGirl",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/PinkGirl1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/PinkGirl.png",
+    "pack": "For Girls"
+  },
+       {
+    "name": "PrettyGirl",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/PrettyGirl1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/PrettyGirl.png",
+    "pack": "For Girls"
+  },   
+    {
+    "name": "Tiffany",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Tiffany1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Tiffany.png",
+    "pack": "For Girls"
+  },
+    
+   {
+    "name": "Bikini",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Bikini1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Bikini.png",
+    "pack": "For Girls"
+  },
+   {
+    "name": "BunnyGirl",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Bunnygirl1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Bunnygirl.png",
+    "pack": "For Girls"
+  },
+   {
+    "name": "ChickenGirl",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Chickengirl1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Chickengirl.png",
+    "pack": "For Girls"
+  },
+   {
+    "name": "Flowers",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Flowers1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Flowers.png",
+    "pack": "For Girls"
+  },
+   {
+    "name": "Helga",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Helga1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Helga.png",
+    "pack": "For Girls"
+  },
+      {
+    "name": "Jane",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/JAne1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/JAne.png",
+    "pack": "For Girls"
+  },
+      {
+    "name": "Kate",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Kate1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Kate.png",
+    "pack": "For Girls"
+  },
+      {
+    "name": "BlueEvil",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/BlueEvil1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/BlueEvil.png",
+    "pack": "Funny"
+  },
+      {
+    "name": "Chicken",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Chicken1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Chicken.png",
+    "pack": "Funny"
+  },
+      {
+    "name": "ChickenMan",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/ChickenMan1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/ChickenMan.png",
+    "pack": "Funny"
+  },
+      {
+    "name": "ChickenShark",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/ChickenShark1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/ChickenShark.png",
+    "pack": "Funny"
+  },
+      {
+    "name": "Kermit",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Frog1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Frog.png",
+    "pack": "Funny"
+  },
+      {
+    "name": "HoodiePepe",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/HoodiePepe1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/HoodiePepe.png",
+    "pack": "Funny"
+  },
+     {
+    "name": "KingKong",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/KingKong1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/KingKong.png",
+    "pack": "Funny"
+  },
+     {
+    "name": "KokokoHead",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/KokokoHead1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/KokokoHead.png",
+    "pack": "Funny"
+  },
+     {
+    "name": "Monkey",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Monkey1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Monkey.png",
+    "pack": "Funny"
+  },
+     {
+    "name": "OriginalMonkey",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/OriginalMonkey1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/OriginalMonkey.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "PigKing",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/PigKing1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/PigKing.png",
+    "pack": "Funny"
+  },
+      {
+    "name": "Pigaruto",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Pigaruto1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Pigaruto.png",
+    "pack": "Funny"
+  },
+      {
+    "name": "Avocado",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Avocado1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Avocado.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "Bananaman",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Bananaman1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Bananaman.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "Boom",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Boom1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Boom.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "CCCP",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/CCCP1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/CCCP.png",
+    "pack": "Funny"
+  },
+     {
+    "name": "Oops",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Oops1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Oops.png",
+    "pack": "Funny"
+  },
+     {
+    "name": "SadNude",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/SadNude1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/SadNude.png",
+    "pack": "Funny"
+  }, {
+    "name": "Smile",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Smile1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Smile.png",
+    "pack": "Funny"
+  }, {
+    "name": "Borat",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/borat1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/borat.png",
+    "pack": 1
+  }, {
+    "name": "Minion",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/minion1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/minion.png",
+    "pack": 1
+  }
+  ],
+  "packs":[
+    {
+      "name": "For Boys"
+    },
+    {
+      "name": "For Girls"
+    },
+    {
+      "name": "Funny"
+    }
+   ]
 }
